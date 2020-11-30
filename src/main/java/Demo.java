@@ -8,6 +8,7 @@ public class Demo {
         System.out.println("Manjiri");
         System.out.println("Ritesh");
 
+        System.out.println("Ritesh 1");
         System.out.println("Manjiri 1");
     }
 }
