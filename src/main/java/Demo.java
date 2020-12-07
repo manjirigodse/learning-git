@@ -1,14 +1,6 @@
 public class Demo {
 
     public static void main(String[] args) {
-        System.out.println("Hello World 1");
-        System.out.println("Second change");
-        System.out.println("Dev 2");
-        System.out.println("branch 2");
-        System.out.println("Manjiri");
-        System.out.println("Ritesh");
-
-        System.out.println("Ritesh 1");
-        System.out.println("Manjiri 1");
+        System.out.println("Hello World");
     }
 }
